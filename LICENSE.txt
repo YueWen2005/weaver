@@ -1,40 +1,21 @@
-编织者 软件许可协议
-================
+MIT License
 
-软件名称：编织者（以下简称"本软件"）
-版本：v1.0
+Copyright (c) 2026 YueWen2005
 
-一、授权范围
-1. 本软件供个人学习、非商业用途免费使用。
-2. 未经作者书面许可，不得将本软件用于商业目的，
-   不得出售、出租、再许可或捆绑分发。
-3. 您可将本软件分享给朋友，但须完整附带本许可文件
-   及全部相关文件，且不得修改本软件。
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-二、API 与使用责任
-1. 本软件调用第三方 AI 服务（SiliconFlow 等）生成内容，
-   使用者须自行注册并保管自己的 API Key。
-2. 使用本软件产生的任何内容（图片、数据等），
-   其合规性与版权责任由使用者自行承担。
-3. 使用者须遵守所调用 AI 平台的服务条款，包括但不限于：
-   对 AI 生成内容进行依法标识、不冒充人工创作、
-   不侵犯第三方知识产权。
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-三、知识产权
-1. 本软件本身的著作权归作者所有。
-2. 本软件使用了若干开源第三方组件，其许可详见随附的
-   THIRD_PARTY_LICENSES.txt，您使用本软件即表示接受其条款。
-
-四、免责声明
-1. 本软件按"现状"提供，作者不保证其适用于任何特定目的，
-   亦不提供任何担保。
-2. 作者不对因使用或无法使用本软件所导致的任何直接、
-   间接损失承担责任。
-3. 第三方 AI 服务由对应平台提供，相关责任由该平台按其
-   条款承担，与本软件作者无关。
-
-五、其他
-1. 本协议解释权归作者所有。
-2. 如本条款与适用法律冲突，以法律为准。
-
-© 2026 编织者作者。保留所有权利。
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

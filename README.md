@@ -2,7 +2,7 @@
 
 > 一个调用 AI 接口、批量生成图片的 Windows 桌面小工具（Python + tkinter + PyInstaller）。
 
-![license](https://img.shields.io/badge/license-个人非商业-blue)
+![license](https://img.shields.io/badge/license-MIT-green)
 ![platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey)
 
 ---
@@ -104,7 +104,7 @@
 ├── providers.py               # 各 AI 平台适配器（硅基流动 / OpenAI 兼容 / Stability）
 ├── build.py                   # PyInstaller 打包脚本（产出 dist/编织者.zip）
 ├── dpi_aware.manifest         # 高 DPI 缩放清单
-├── LICENSE.txt                # 软件许可协议（v1.0）
+├── LICENSE.txt                # 软件许可协议（MIT）
 ├── THIRD_PARTY_LICENSES.txt   # 第三方组件许可
 └── generated_cards/           # 生成的图片输出目录（运行时产生）
 ```
@@ -113,8 +113,8 @@
 
 ## 六、许可协议
 
-本软件按 **v1.0** 许可协议提供，**仅供个人学习、非商业用途免费使用**。
-未经作者书面许可，不得用于商业目的、不得出售或捆绑分发。
+本软件采用 **MIT License**（OSI 认证的开源协议），可自由用于学习、商用、修改与再分发。
+唯一要求：分发时须附带 `LICENSE.txt` 中的版权与许可声明（即保留原作者署名信息），不强制在软件界面中标注作者。
 详见随附的 `LICENSE.txt`；第三方组件许可见 `THIRD_PARTY_LICENSES.txt`。
 
 使用本软件需自行注册并保管自己的 API Key，生成内容的合规与版权责任由使用者自行承担。
