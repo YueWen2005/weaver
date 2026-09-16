@@ -1,0 +1,28 @@
+第三方组件许可声明
+================
+
+本软件使用了以下开源第三方组件，特此声明其许可信息。
+（完整许可证原文请参见各组件官方仓库。）
+
+1. requests（HTTP 库）
+   许可证：Apache License 2.0
+   仓库：https://github.com/psf/requests
+
+2. Pillow（图像处理库）
+   许可证：HPND（PIL Software License）
+   仓库：https://github.com/python-pillow/Pillow
+
+3. PyInstaller（打包工具，仅用于构建发布，不随软件分发）
+   许可证：GPL 2.0（含 Bootloader 例外条款，
+            打包产物不受 GPL 传染，可独立分发）
+   仓库：https://github.com/pyinstaller/pyinstaller
+
+4. tkinterdnd2（窗口拖放支持）
+   许可证：MIT 类许可（基于 tkdnd）
+   仓库：https://github.com/pmgagne/tkinterdnd2
+
+5. Python 标准库 tkinter（GUI 框架）
+   许可证：PSF License Agreement
+   官网：https://www.python.org/psf/license/
+
+如您使用本软件，即表示接受上述组件的许可条款。

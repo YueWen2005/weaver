@@ -1,0 +1,25 @@
+# ===== Build artifacts (PyInstaller) =====
+dist/
+build/
+*.spec
+
+# ===== Python =====
+__pycache__/
+*.pyc
+.venv/
+
+# ===== IDE =====
+.idea/
+
+# ===== Local data / secrets =====
+settings.json
+*.log
+generated_cards/
+
+# ===== WorkBuddy internal =====
+.workbuddy/
+
+# ===== OS / shortcuts =====
+Thumbs.db
+Desktop.ini
+编织者.lnk
